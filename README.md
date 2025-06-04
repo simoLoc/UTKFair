@@ -44,7 +44,7 @@ Il dataset **UTKFace** è utilizzato come fonte primaria di immagini per l’add
 - Librerie principali (installabili nel notebook con `!pip install`):
   - `tensorflow`
   - `keras`
-  - `numpy`, `pandas`, `matplotlib`
+  - `numpy`, `pandas`, `matplotlib` (per il pre-processing)
   - `tqdm`
   - `scikit-learn` (per calcoli di metriche)
   - `fairlearn` (per l'analisi delle metriche di fairness)
