@@ -51,3 +51,9 @@ Il dataset **UTKFace** è utilizzato come fonte primaria di immagini per l’add
   - `dagshub` (integrato con git e MLflow)
   - `mlflow` (per monitorare, salvare e confrontare esperimenti)
    
+
+## Autori e contatti
+| Autore              | Indirizzo email                |
+|---------------------|--------------------------------|
+| Simona Lo Conte     | s.loconte2@studenti.unisa.it   |
+| Marta Napolillo     | m.napolillo1@studenti.unisa.it |
